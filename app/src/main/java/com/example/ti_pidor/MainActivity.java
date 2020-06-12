@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
            public void onClick(View view) {
                double rnd = Math.random();
                if(rnd>0.5){
-                   textView.setText("Ti pidor");
+                   textView.setText("Ti pidor 2.0");
                }
                else{
                    textView.setText("Ti utochka");
